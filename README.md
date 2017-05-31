@@ -1,1 +1,2 @@
-# ant-mobile-project
+## ant-mobile项目
+#可以根据这两个项目去开发自己的项目，其中都使用了dva应用框架。
